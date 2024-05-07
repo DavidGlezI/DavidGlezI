@@ -62,6 +62,7 @@ Software:
 
 # ⚡David's top fan⚡
 [@elunac19](https://github.com/elunac19) 
+![@elunac19](https://avatars.githubusercontent.com/elunac19?s=150&v=1)
 
 
 <!--
