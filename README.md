@@ -14,19 +14,18 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Current Projects!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 
+<p align="left">
+  <a href="https://github.com/DavidGlezI/LanguageJS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DavidGlezI&repo=LanguageJS&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="table2ascii"></a>
+  
+  <a href="https://github.com/DavidGlezI/ProyectoKueski"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DavidGlezI&repo=ProyectoKueski&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="table2ascii"></a>
+  
+  <a href="https://github.com/DavidGlezI/BanorteHackMTY"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DavidGlezI&repo=BanorteHackMTY&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="table2ascii"></a>
+  
+  <a href="https://github.com/DavidGlezI/BAMX_Rewards"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DavidGlezI&repo=BAMX_Rewards&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="table2ascii"></a>
 
-<a href="https://github.com/DavidGlezI/LanguageJS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DavidGlezI&repo=LanguageJS&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="table2ascii"></a>
+  <a href="https://github.com/DavidGlezI/InventoryCarouselSim"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/username=DavidGlezI&repo=InventoryCarouselSim&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="table2ascii"></a>
 
-<a href="https://github.com/DavidGlezI/ProyectoKueski"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DavidGlezI&repo=ProyectoKueski&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="table2ascii"></a>
-
-<a href="https://github.com/DavidGlezI/BanorteHackMTY"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DavidGlezI&repo=BanorteHackMTY&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="table2ascii"></a>
-
-<a href="https://github.com/DavidGlezI/BAMX_Rewards"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DavidGlezI&repo=BAMX_Rewards&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="table2ascii"></a>
-
-<a href="https://github.com/DavidGlezI/InventoryCarouselSim
-"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DavidGlezI&repo=InventoryCarouselSim
-&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="table2ascii"></a>
-
+</p>
 
 <h3>My technologies</h3>
 <p>
