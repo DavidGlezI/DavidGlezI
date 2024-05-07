@@ -61,7 +61,7 @@ Software:
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 
 # ⚡David's top fan⚡
-@elunac19](https://github.com/elunac19) 
+[@elunac19](https://github.com/elunac19) 
 
 
 <!--
