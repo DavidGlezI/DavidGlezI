@@ -3,7 +3,7 @@
 ### I'm David Glez, a software developer focusing on creating a positive impact on the world. 
 -------
 
-<img src="https://raw.githubusercontent.com/elunac19/elunac19/master/black-hole-int.gif" alt="black-hole" align="center" width="100%"></img>
+<img src="https://raw.githubusercontent.com/davidglezi/davidglezi/master/new.gif" alt="gif" align="center" width="100%"></img>
   
 ## 🧐 About
 
@@ -65,6 +65,9 @@ Software:
 # ⚡David's top fan⚡
 [@elunac19](https://github.com/elunac19) 
 ![@elunac19](https://avatars.githubusercontent.com/elunac19?s=150&v=1)
+
+
+<img src="https://raw.githubusercontent.com/davidglezi/davidglezi/master/2.gif" alt="gif2" align="center" width="100%"></img>
 
 
 <!--
