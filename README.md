@@ -1,4 +1,19 @@
-### David Glez 👋
+### Hi 👋
+
+### I'm David Glez, I am a software developer focusing on creating a positive impact on the world. 
+-------
+  
+## 🧐 About
+
+- 😄 Love to participate on Hackathons
+- 🌱 Interested on learning new technologies
+- 👯 Enjoy meeting new people and working with others.
+
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
+
+
+![David's github stats](https://github-readme-stats.vercel.app/api?username=DavidGlezI&show_icons=true)
 
 
 ## Skills
