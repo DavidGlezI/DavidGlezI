@@ -1,6 +1,6 @@
 ### Hi 👋
 
-### I'm David Glez, I am a software developer focusing on creating a positive impact on the world. 
+### I'm David Glez, a software developer focusing on creating a positive impact on the world. 
 -------
   
 ## 🧐 About
