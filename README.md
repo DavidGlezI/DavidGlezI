@@ -3,7 +3,7 @@
 ### I'm David Glez, a software developer focusing on creating a positive impact on the world. 
 -------
 
-<img src="https://raw.githubusercontent.com/davidglezi/davidglezi/master/new.gif" alt="gif" align="center" width="100%"></img>
+<img src="https://raw.githubusercontent.com/davidglezi/davidglezi/master/2.gif" alt="gif" align="center" width="100%"></img>
   
 ## 🧐 About
 
@@ -12,6 +12,10 @@
 - 👯 Enjoy meeting new people and working with others.
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
+
+
+<a href="https://github.com/DavidGlezI/LanguageJS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DavidGlezI&repo=LanguageJS&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="table2ascii"></a>
 
 
 <h3>My technologies</h3>
@@ -67,7 +71,7 @@ Software:
 ![@elunac19](https://avatars.githubusercontent.com/elunac19?s=150&v=1)
 
 
-<img src="https://raw.githubusercontent.com/davidglezi/davidglezi/master/2.gif" alt="gif2" align="center" width="100%"></img>
+<img src="https://raw.githubusercontent.com/davidglezi/davidglezi/master/new.gif" alt="gif2" align="center" width="100%"></img>
 
 
 <!--
