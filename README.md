@@ -2,6 +2,8 @@
 
 ### I'm David Glez, a software developer focusing on creating a positive impact on the world. 
 -------
+
+<img src="https://raw.githubusercontent.com/elunac19/elunac19/master/black-hole-int.gif" alt="black-hole" align="center" width="100%"></img>
   
 ## 🧐 About
 
